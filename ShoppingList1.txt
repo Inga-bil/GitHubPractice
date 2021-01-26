@@ -7,3 +7,5 @@ Cherries
 Carrots
 Milk
 Bread
+Hummus
+Chips
