@@ -5,7 +5,6 @@ Oranges
 Bannas
 Cherries
 Carrots
-Milk
 Bread
 Water
 Tomatoes
