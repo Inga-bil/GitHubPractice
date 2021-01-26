@@ -3,7 +3,6 @@ Shopping List:
 Apple
 Oranges
 Bannas
-Cherries
 Carrots
 Milk
 Bread
